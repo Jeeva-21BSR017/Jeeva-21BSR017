@@ -1,3 +1,5 @@
+![](./assets/space.gif)
+
 # 💫 About Me:
 🔭 I’m an M.C.A. Student<br>🤝 I’m looking for help with MERN Stack development<br>🌱 I’m currently learning full-stack web development / Java<br>⚡ Fun fact: I love Java, but I prefer tea.
 
