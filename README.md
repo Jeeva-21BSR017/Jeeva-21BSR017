@@ -1,4 +1,4 @@
-![Space Banner](./space-banner.gif)
+![Space Banner](./space.gif)
 
 
 # 💫 About Me:
