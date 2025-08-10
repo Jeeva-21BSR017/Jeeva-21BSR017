@@ -9,7 +9,7 @@
 ⚡ Fun fact: I may love Java, but when it comes to drinks… tea wins every time. <br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jeevastudent/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"></a><a href="mailto:jeevaa.21bsr@kongu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"></a><a href="https://effulgent-tarsier-25da8b.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35"></a>
