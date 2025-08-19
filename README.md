@@ -4,7 +4,7 @@
 # 💫 About Me:
 
 🔭 I’m currently pursuing my Master of Computer Applications (M.C.A.). <br>
-🤝 I’m passionate about MERN Stack development and always open to learning and collaborating on exciting projects. <br>
+🤝 I’m passionate about MERN Stack development and always open to learning and collaborating. <br>
 🌱 Right now, I’m focused on full-stack web development and strengthening my skills in Java. <br>
 ⚡ Fun fact: I may love Java, but when it comes to drinks… tea wins every time. <br>
 
